@@ -1,0 +1,19 @@
+body {
+  background: gray; }
+
+::-webkit-input-placeholder {
+  color: gray; }
+
+::-moz-placeholder {
+  color: gray; }
+
+::-ms-input-placeholder {
+  color: gray; }
+
+::placeholder {
+  color: gray; }
+
+._test_f3cc6 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
